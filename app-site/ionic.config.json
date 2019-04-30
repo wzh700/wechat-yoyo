@@ -1,0 +1,12 @@
+{
+  "name": "ionic4_study",
+  "integrations": {},
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/outlogin",
+      "proxyUrl": "http://hn2.api.okayapi.com"
+    }
+    
+  ]
+}
